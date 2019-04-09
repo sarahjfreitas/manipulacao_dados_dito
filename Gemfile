@@ -46,3 +46,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # usada para liberar acesssos externos para api
 gem 'rack-cors'
+gem 'httparty'
